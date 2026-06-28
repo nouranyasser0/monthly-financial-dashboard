@@ -10,6 +10,7 @@ This project analyzes financial performance using the Olist E-Commerce dataset t
 * Expected Revenue
 * Total Payments Received
 * Revenue Reconciliation %
+* Net Profit
 * Total Orders by Month
 * Order Status Distribution
 * Average Order Value
